@@ -15,7 +15,7 @@ team_name = 'Bogdan and Sarah' # Only 10 chars displayed.
 =======
 team_name = 'Bogdan and Sarah' # Only 10 chars displayed.
 >>>>>>> upstream/master
-strategy_name = 'test'
+strategy_name = 'pullrequesttest'
 strategy_description = 'How does this strategy decide?'
     
 def move(my_history, their_history, my_score, their_score):
