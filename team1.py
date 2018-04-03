@@ -6,7 +6,15 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+team_name = 'The name the team gives to itself' # Only 10 chars displayed.
+=======
 team_name = 'Bogdan and Sarah' # Only 10 chars displayed.
+>>>>>>> upstream/master
+=======
+team_name = 'Bogdan and Sarah' # Only 10 chars displayed.
+>>>>>>> upstream/master
 strategy_name = 'test'
 strategy_description = 'How does this strategy decide?'
     
