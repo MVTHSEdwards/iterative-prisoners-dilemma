@@ -6,8 +6,16 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 team_name = 'The name the team gives to itself' # Only 10 chars displayed.
-strategy_name = 'The name the team gives to this strategy'
+=======
+team_name = 'Bogdan and Sarah' # Only 10 chars displayed.
+>>>>>>> upstream/master
+=======
+team_name = 'Bogdan and Sarah' # Only 10 chars displayed.
+>>>>>>> upstream/master
+strategy_name = 'pullrequesttest'
 strategy_description = 'How does this strategy decide?'
     
 def move(my_history, their_history, my_score, their_score):
@@ -65,3 +73,7 @@ if __name__ == '__main__':
               # move('bbb', 'ccc', 0, 0) returns 'b'.
               my_score=0, 
               their_score=0,
+              result='b')     
+              
+                      
+       
